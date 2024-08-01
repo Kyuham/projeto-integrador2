@@ -1,0 +1,120 @@
+.WHATSAPPUM, {
+    height: 60px;
+    width: 60px;
+    margin: 2px;
+    position: relative;
+}
+
+.GMAILUM {
+    height: 60px;
+    width: 60px;
+    margin: 2px;
+    position: relative;
+    mix-blend-mode: multiply;
+    border-radius: 100px;
+
+}
+
+.GMAIL {
+    position: relative;
+    
+
+
+}
+.INSTAGRAMUM {
+    height: 60px;
+    width: 60px;
+    margin: 2px;
+    position: relative;
+    top: -65px;
+    left: 17px;
+}
+
+.WHATSAPPUM {
+    height: 60px;
+    width: 60px;
+    margin: 2px;
+    position: relative;
+    border-radius: 100px;
+    top: 10px;
+}
+
+.LOGO {
+    height: 60px;
+    width: 60px;
+    margin: 2px;
+    position: relative;
+    top: -65px;
+}
+
+.FACEBOOKUM {
+    height: 60px;
+    width: 60px;
+    margin: 2px;
+    position: relative;
+    mix-blend-mode: multiply;
+    right: 70px;
+
+}
+
+.BORDA {
+    border: 2px solid pink;
+    background-color: pink;
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-section, .right-section, .center-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+.center-section {
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    align-items: center;
+    position:relative;
+    bottom: -100px;
+    right: 70px;
+
+}
+
+.right-section {
+    align-items: flex-end;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.CONTATOS {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.ATELIE {
+    text-align: right;
+    left: 70px;
+    display: flex;
+    position: relative;
+    top: -50px;
+}
+
+.NUMERO {
+    text-align: right;
+    left: 70px;
+    display: flex;
+    position: relative;
+    top: -40px;
+}
